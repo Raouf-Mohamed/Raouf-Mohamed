@@ -44,14 +44,12 @@ public class DeveloperProfile {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raouf-Mohamed&show_icons=true&theme=dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raouf-Mohamed&layout=compact&theme=dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raouf-Mohamed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raouf-Mohamed&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raouf-Mohamed&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
