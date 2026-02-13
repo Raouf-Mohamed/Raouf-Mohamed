@@ -38,16 +38,8 @@ public class DeveloperProfile {
         System.out.println("Building new code and solving problems.");
     }
 }
+
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raouf-Mohamed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raouf-Mohamed&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
