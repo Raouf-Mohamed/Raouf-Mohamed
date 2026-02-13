@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00bcd4&center=true&vCenter=true&width=500&lines=👋+Welcome+to+my+GitHub!;I'm+Raouf+Mohamed;Fachinformatiker;Clean+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00bcd4&center=true&vCenter=true&width=500&lines=👋+Hallo%2C+ich+bin+Raouf+Mohamed;Fachinformatiker+🇩🇪;Clean+Code+Lover" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hallo, ich bin Raouf Mohamed</h1>
-<h3 align="center">Fachinformatiker für Anwendungsentwicklung </h3>
+<h3 align="center">Fachinformatiker für Anwendungsentwicklung 🇩🇪</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -12,7 +12,7 @@
 - 👋 Hallo, ich bin Raouf Mohamed.
 - 💻 Ich bin Fachinformatiker für Anwendungsentwicklung mit Leidenschaft für sauberen Code.
 - 🔭 Ich arbeite aktuell viel mit Python, Java, SQL und modernen Web-Technologien.
-- 💬 Frag mich gerne über Software-Entwicklung, PC-Hardware oder Reisen.
+- 💬 Frag mich gerne über Software-Entwicklung, PC-Hardware oder Reise.
 - ⚡ Fun fact: Man verbrennt 150 Kalorien, wenn man seinen Kopf eine Stunde lang gegen eine Wand schlägt (nicht empfohlen beim Debuggen!).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -27,6 +27,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ```java
 // Focus & Skills
@@ -52,5 +53,5 @@ public class DeveloperProfile {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raouf-Mohamed&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Raouf-Mohamed&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
