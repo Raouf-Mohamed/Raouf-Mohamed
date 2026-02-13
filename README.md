@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00bcd4&center=true&vCenter=true&width=435&lines=👋+Hallo%2C+ich+bin;Raouf+Mohamed;Fachinformatiker;Clean+Code+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <details>
 <summary><strong> 🎵 Busy coding & Vibing to : </strong></summary>
