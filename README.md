@@ -1,19 +1,5 @@
-<div align="center">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00bcd4&center=true&vCenter=true&width=435&lines=👋+Hallo%2C+ich+bin;Raouf+Mohamed;Fachinformatiker;Clean+Code+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<details>
-<summary><strong> 🎵 Busy coding & Vibing to : </strong></summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=Raouf-Mohamed&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaouf-Mohamed&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-</div>
+<h1 align="center">👋 Hallo, ich bin Raouf Mohamed</h1>
+<h3 align="center">Fachinformatiker für Anwendungsentwicklung</h3>
 
 <hr>
 
@@ -27,25 +13,25 @@
 
 <hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🛠️ Tools
+
+- Java
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQLite
+- Git
+- VS Code
+- Figma
 
 ```java
 // Focus & Skills
-public class DeveloperProfile { 
+public class DeveloperProfile {
     String role = "Application Developer";
     String[] stack = { "Java", "Python", "JavaScript", "SQL" };
-    
+
     public void currentActivity() {
-        System.out.println("Building clean code and solving problems.");
+        System.out.println("Building new code and solving problems.");
     }
 }
-```
